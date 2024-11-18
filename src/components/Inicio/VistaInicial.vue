@@ -12,7 +12,7 @@
                <input type="email" placeholder="enter your email" class="w-2/5  px-3 py-12px w-30px  border-gray-100 bg-gray-50 rounded-md  focus:outline-none focus:ring-2 focus:ring-blue-500" />
                <button type="submit" class=" font-bold px-10 py-3 bg-sky-300 text-white rounded-r-3xl hover:bg-sky-300 ">→</button>
             </form>
-            <div>>
+            <div>
                <h4 class="text-xs">*Reserve your domain today before someone take it.</h4>
             </div>
             <div>
