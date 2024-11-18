@@ -302,13 +302,14 @@ module.exports = {
     },
     fontFamily: {
       sans: [
-        'ui-sans-serif',
-        'system-ui',
-        'sans-serif',
-        '"Apple Color Emoji"',
-        '"Segoe UI Emoji"',
-        '"Segoe UI Symbol"',
-        '"Noto Color Emoji"',
+        // 'ui-sans-serif',
+        // 'system-ui',
+        // 'sans-serif',
+        // '"Apple Color Emoji"',
+        // '"Segoe UI Emoji"',
+        // '"Segoe UI Symbol"',
+        // '"Noto Color Emoji"',
+        '"Plus Jakarta Sans"', 'Helvetica', 'Arial', 'sans-serif'
       ],
       serif: ['ui-serif', 'Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif'],
       mono: [

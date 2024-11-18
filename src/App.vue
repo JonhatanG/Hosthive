@@ -7,7 +7,7 @@ import Header from './components/Header.vue';
 </script>
 
 <template>
-  <div>
+  <div >
     <Header />
     <router-view></router-view>
     <Footer />
@@ -18,4 +18,13 @@ import Header from './components/Header.vue';
 </template>
 
 
-<style></style>
+<style>
+.hf_paddingx {
+  @apply px-24;
+}
+
+.color_primary{
+  color: rgb(56 189 248)
+}
+
+</style>
