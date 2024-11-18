@@ -4,7 +4,7 @@ import router from './router'
 import './assets/tailwind.css'
 import './assets/css/styles.css'
 import './assets/css/reset.css'
-import '@fortawesome/fontawesome-free/css/all.css'
+// import '@fortawesome/fontawesome-free/css/all.css'
 
 
 
