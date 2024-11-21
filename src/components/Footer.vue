@@ -72,10 +72,10 @@
     </div>
 
     <!-- Subfooter -->
-    <div class="border-t border-gray-200 py-4 mt-8">
+    <div class="border-t border-gray-200 py-4 mt-auto flex justify-center content-end ">
         <div class="container mx-auto bg-gray-50 px-4 flex flex-col md:flex-row items-center justify-between text-gray-600 pb-4">
             <p class="text-sm">&copy; 2023 - Hostco by Designesia</p>
-            <ul class="flex space-x-4 text-sm">
+            <ul class="flex space-x-4 text-sm ">
                 <li><a href="#" class="hover:text-gray-900">Terms & Conditions</a></li>
                 <li><a href="#" class="hover:text-gray-900">Privacy Policy</a></li>
             </ul>

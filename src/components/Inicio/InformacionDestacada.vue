@@ -1,10 +1,10 @@
 <template>
-   <section class="bg-slate-50 py-12 font-sans pb-auto">
+   <section class="bg-slate-50 py-14 font-sans pb-auto">
       <div class="container mx-auto grid grid-cols-1 md:grid-cols-2 items-center gap-8 px-6">
          <!-- Columna de la Imagen -->
          <div class="flex justify-center ">
             <img
-               class="server anim-up-down lg:flex-1 hidden lg:block w-full max-w-md  "
+               class="server anim-up-down lg:flex-1 hidden lg:block w-full max-w-2xl  "
                src="img/misc/server.png"
                alt="Server illustration"
             />
@@ -54,7 +54,7 @@ export default {};
     transform: translateY(0);
   }
   50% {
-    transform: translateY(-20px);
+    transform: translateY(-4px);
   }
 }
 

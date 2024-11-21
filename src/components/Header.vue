@@ -1,5 +1,5 @@
   <template>
-    <header class= "bg-white shadow-md font-sans   w-full ">
+    <header class= "bg-white shadow-md font-sans w-full ">
       <div id="topbar " class="bg-sky-100 py-2 text-gray-600 ">
         <div class="  container  mx-auto flex justify-between items-center hf_paddingx ">
           <!-- Left Side -->
@@ -20,7 +20,7 @@
       </div>
 
       <div class="container mx-auto ">
-        <div class=" flex justify-between items-center py-4 hf_paddingx">
+        <div class=" flex justify-evenly items-end py-4 hf_paddingx">
           <!-- Logo -->
           <div id="logo">
             <a href="index.html">
@@ -53,9 +53,9 @@
           </nav>
 
           
-          <div class="flex items-center space-x-4">
+          <div class="flex items-center  space-x-4 ">
             <a href="login.html" class="btn-main px-7 py-3 focus:ring-2 bg-blue-600 text-white rounded-r-full hover:shadow-lg hover:shadow-sky-400">Free Trial</a>
-            <span id="menu-btn" class="lg:hidden text-gray-700 cursor-pointer ">☰</span>
+            <span id="menu-btn" class=" boton lg:hidden text-gray-700 cursor-pointer flex  ">☰</span>
           </div>
         </div>
       </div>
@@ -65,6 +65,11 @@
   <style scoped>
   .btn-main {
     @apply bg-sky-400 text-white font-semibold rounded-full ;
+  }
+
+  .boton{
+
+    
   }
   </style>
 

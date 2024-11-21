@@ -1,5 +1,5 @@
 <template>
-   <section class="pt-8 font-sans p-8 py-10  ">
+   <section class=" font-sans p-8 py-24  ">
       <div class="container mx-auto max-sm">
          <div class="flex flex-wrap text-center ">
             <div class="w-full md:w-1/4 sm:w-1/2 mb-6">

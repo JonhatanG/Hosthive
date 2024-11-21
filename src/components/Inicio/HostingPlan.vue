@@ -10,10 +10,10 @@
 
       <!-- Steps Container with Border Line -->
       <div class="relative">
-         <!-- Horizontal Line -->
+         <!-- Horizontal Line -->   
 
          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 divide-double divide-gray-500 gap-8 text- relative shadow-2xl shadow-slate-200 border-t border-gray-700 ">
-            <div class="flex flex-col items-start p-4" style="border-right: 1px solid black;">
+            <div class="flex flex-col items-start p-4" style="border-right: 1px solid gray;">
                <h3 class="text-xl font-semibold mt-4 text-black">Starter</h3>
                <p class="mt-2 text-gray-500">Ideal solution for beginners.</p>
                <h4 class="price text-4xl pt-14 font-bold text-black">$3.59/mo</h4>
@@ -44,7 +44,7 @@
                </ul>
                <div class="pt-5">
                   <h4 class="text-black font-semibold py-4">Also Includes</h4>
-                  <ul class="text-gray-500 space-y-4 py-0">
+                  <ul class="text-gray-500 space-y-4 py-0" >
                      <li class="flex items-center space-x-2"> <span
                            class="bg-sky-400 rounded-full w-6 h-6 flex items-center justify-center font-bold text-white ">✓</span>
                         <span>Free Domain - 1 year</span>
@@ -62,7 +62,7 @@
             </div>
 
             <!-- Columna Plus -->
-            <div class="flex flex-col items-start p-4">
+            <div class="flex flex-col items-start p-4" style="border-right: 1px solid gray;">
                <h3 class="text-xl font-semibold mt-4 text-black">Plus</h3>
                <p class="mt-2 text-gray-500">For those need to running multiple sites.</p>
                <h4 class="price text-4xl pt-10 font-bold text-black">$5.59/mo</h4>
@@ -111,7 +111,7 @@
             </div>
 
             <!-- Columna Deluxe -->
-            <div class="flex flex-col items-start p-4">
+            <div class="flex flex-col items-start p-4" style="border-right: 1px solid gray;">
                <h3 class="text-xl font-semibold mt-4 text-black">Deluxe</h3>
                <p class="mt-2 text-gray-500">Unlimited sites with automated backup.</p>
                <h4 class="price text-4xl pt-10 font-bold text-black">$8.59/mo</h4>
